@@ -1,0 +1,7 @@
+name: Roam
+author: xBenz
+version: 1.0
+main: me.roam.Roam
+commands:
+  roam:
+  debug:
